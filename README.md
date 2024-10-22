@@ -9,11 +9,10 @@ This project involves a detailed analysis of a marketing campaign dataset from a
 • **Data Mining**: Development of a logistic regression model using 1,000 random records; implementation of a prediction application with a user-friendly interface; evaluation of model accuracy with a test set of 100 records.  
 • **Reflection**: Discussion of methodologies and findings from the analysis.  
 
-**Technologies Used**:   
-• Python  
-• Pandas  
-• Matplotlib  
-• Scikit-learn
+**Technologies Used**:     
+• **Language**: Python  
+• **Libraries**: Pandas, NumPy, Matplotlib, Scikit-learn  
+• **Tools**: Google Colab, Git Hub  
 
 **Benefits**:  
 This project enhances marketing strategies by providing insights into customer behavior and preferences, enabling targeted campaigns that improve effectiveness. By employing logistic regression, it achieves accurate predictions of customer affinity, helping identify high-value customers. The analysis uncovers key trends influencing loyalty and engagement, while the user-friendly prediction application streamlines decision-making through easy data input. Overall, the project covers all stages of data handling, ensuring a comprehensive examination of the marketing campaign dataset.
